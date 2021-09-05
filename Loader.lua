@@ -8,3 +8,6 @@ end
 if game.PlaceId == 2512643572 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/SheshHub/Main/main/games/Bubblegum%20Simulator.lua", true))()
 end
+if game.PlaceId == 7321682575 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SheshHub/Main/main/games/Farm%20Yard%20Simulator.lua", true))()
+end
