@@ -11,3 +11,6 @@ end
 if game.PlaceId == 7321682575 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/SheshHub/Main/main/games/Farm%20Yard%20Simulator.lua", true))()
 end
+if game.PlaceId == 4058282580 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SheshHub/Main/main/games/Boxing%20Simulator.lua", true))()
+end
